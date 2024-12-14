@@ -1,2 +1,2 @@
 # Python-App-Deploy
-I'm trying to deploy a simple python app with OpenShift to interact with my learning joureny
+I'm trying to deploy a simple python app with <h1>OpenShift</h1> to interact with my learning joureny
