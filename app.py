@@ -3,7 +3,7 @@ from flask import Flask
 app = Flask(__name__)
 
 def home():
-    return "Hello, Abdallah Our new DevOps Engineer!"
+    return "Hello, Abdallah Our new NTI Trainee!"
 
 
 if __name__ == '__main__':
